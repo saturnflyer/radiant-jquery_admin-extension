@@ -1,0 +1,8 @@
+= Jquery Admin
+
+This extension set's up the Radiant admin interface with jQuery based 
+scripts and removes all references to PrototypeJS based scripts.
+
+It is a work in progress.
+
+Built by Saturn Flyer http://www.saturnflyer.com
